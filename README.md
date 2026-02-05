@@ -49,7 +49,7 @@ PoC에서 끝나지 않고 **실사용 가능한 견고한 구조**를 만드는
 ### 📫 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/%ED%95%9C%EB%B9%84-%EC%9E%84-b2b3b5304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:본인메일주소"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hanbiyim1@hanyang.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
