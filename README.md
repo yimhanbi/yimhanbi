@@ -15,45 +15,26 @@ PoC에서 끝나지 않고 **실사용 가능한 구조**를 만드는 데 집�
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-Python, FastAPI, Node.js
-
-**Frontend**
-React, TypeScript, Vite
-
-**AI / Search**
-Elasticsearch, Vector Search, LLM API 활용
-
-**Database**
-MongoDB, PostgreSQL
-
-**Infra / DevOps**
-Docker, Linux, Nginx, Railway
+ilway
 
 ---
 
-## 🛠 Tech Stack
+---
 
-**Backend**
-Python, FastAPI, Node.js
+## ✅ What I Can Do
 
-**Frontend**
-React, TypeScript, Vite
-
-**AI / Search**
-Elasticsearch, Vector Search, LLM API 활용
-
-**Database**
-MongoDB, PostgreSQL
-
-**Infra / DevOps**
-Docker, Linux, Nginx, Railway
+* REST API 설계 및 백엔드 아키텍처 구성
+* 대용량 텍스트 검색 시스템 구축 (Elasticsearch)
+* AI / RAG 기반 검색·질의 응답 파이프라인 구현
+* Docker 기반 서비스 배포 및 운영 환경 구성
 
 ---
 
 ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yimhanbi\&show_icons=true\&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimhanbi\&layout=compact)
 
 ---
 
