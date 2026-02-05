@@ -1,10 +1,10 @@
-# 🎀 👋 Hi, I'm Hanbi | Full-stack Developer 
+# ✨ 👋 Hi, I'm Hanbi! 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=200&section=header&text=Hanbi's%20Dev%20Space&fontSize=70&animation=fadeIn&fontColor=616161" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Hanbi's%20Dev%20Space&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/07O8H7V83o97F0D0S8/giphy.gif" width="120px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -27,21 +27,20 @@
 
 ---
 
-## 📊 My Activity (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=pastel&hide_border=true&bg_color=ffffff" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yimhanbi&theme=dracula&bg_color=ffffff&hide_border=true&color=ff79c6" height="180" />
-</p>
-
----
-
-## ✨ Tech Stack
+## ✨ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=soft-pink&hide_border=true" height="150" />
 </p>
 
 ---
@@ -53,5 +52,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFD1DC&height=50&section=footer" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=30&section=footer" />
 </p>
