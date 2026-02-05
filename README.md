@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=soft-pink&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=rose_pine&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=616161&bg_color=ffffff" height="180" />
 </p>
 
 ---
