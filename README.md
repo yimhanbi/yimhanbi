@@ -38,11 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=radical&title_color=FFB6C1&icon_color=FFB6C1" alt="Hanbi's GitHub stats" height="180" />
-</p>
----
 
 ## 📫 Contact
 <p align="left">
