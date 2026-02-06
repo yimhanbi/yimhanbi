@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Hanbi's%20Dev%20Space&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" />
