@@ -1,7 +1,6 @@
 # ✨ 👋 Hi, I'm Hanbi! 
-
 <p align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Hanbi's%20Dev%20Space&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -14,17 +13,17 @@
 실제 서비스 환경에서 **검색·AI·플랫폼 시스템**을 설계하고 구현합니다.  
 단순 구현(PoC)을 넘어, 견고하고 확장성 있는 아키텍처를 고민하는 풀스택 개발자입니다.
 
-* 🛠 **핵심 역량:** 대용량 데이터 처리, API 설계, Elasticsearch 시스템 구축
-* 🧠 **AI 실증:** RAG 기반 검색 및 질의응답 파이프라인 실서비스 구현 경험
-* 🐾 **지향점:** "돌아가는 코드"를 넘어 "유지보수하기 좋은 구조"
+* **핵심 역량:** 대용량 데이터 처리, API 설계, Elasticsearch 시스템 구축
+* **AI 실증:** RAG 기반 검색 및 질의응답 파이프라인 실서비스 구현 경험
+* **지향점:** "돌아가는 코드"를 넘어 "유지보수하기 좋은 구조"
 
 ---
 
 ## ✅ What I Can Do
-- 🏗 **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
-- 🔍 **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
-- 🤖 **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
-- 🐳 **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
+- **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
+- **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
+- **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
+- **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
 
 ---
 
