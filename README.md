@@ -1,4 +1,4 @@
-# ✨ 👋 Hi, I'm Hanbi! 
+# ❤️👋 Hi, I'm Hanbi! 
 <p align="center"> <img src="https://media1.tenor.com/m/e4xvnd3mVuwAAAAC/sailor-moon-sailor.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFB6C1&height=42&section=header" /> </p>
 
  # 🧑‍💻 About Me
@@ -11,10 +11,10 @@
 
 ---
 ## ✅ What I Can Do
-- 🏗 **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
-- 🔍 **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
-- 🤖 **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
-- 🐳 **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
+-  **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
+-  **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
+-  **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
+-  **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
 
 ---
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=18" /> </p>
