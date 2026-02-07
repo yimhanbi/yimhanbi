@@ -19,7 +19,6 @@
 ## About Me
 <img src="https://i.pinimg.com/originals/f3/04/e5/f304e5d429a1e9447e17478787878787.gif" align="right" width="150px">
 
-> **"데모보다 실서비스를, 슬라이드보다 운영 가능한 구조를!"**
 
 실제 서비스 환경에서 **검색·AI·플랫폼 시스템**을 설계하고 구현합니다.  
 단순 구현(PoC)을 넘어, 견고하고 확장성 있는 아키텍처를 고민하는 풀스택 개발자입니다.
@@ -45,6 +44,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=rose_pine)
 
 
 
