@@ -1,4 +1,4 @@
-# 💖 Hi, I'm Hanbi! 
+# Hi, I'm Hanbi! 
 
 <p align="center">
   <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
