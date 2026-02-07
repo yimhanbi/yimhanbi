@@ -1,6 +1,6 @@
 # ✨ 👋 Hi, I'm Hanbi! 
 <p align="center"> <img src="https://media1.tenor.com/m/e4xvnd3mVuwAAAAC/sailor-moon-sailor.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFB6C1&height=42&section=header" /> </p>
-## 🧑‍💻 About Me
+ 🧑‍💻 About Me
 <img src="https://i.pinimg.com/originals/f3/04/e5/f304e5d429a1e9447e17478787878787.gif" align="right" width="150px">
 
 > **"데모보다 실서비스를, 슬라이드보다 운영 가능한 구조를!"**
