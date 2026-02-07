@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=18" /> </p>
 
 ## 📫 Contact
 <p align="left">
