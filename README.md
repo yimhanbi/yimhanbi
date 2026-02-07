@@ -37,32 +37,15 @@
 
 ## Tech Stack & Tools
 ---
-
-<p align="center">
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
-  <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-
-  
-</p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>
-
 ---
 
 
