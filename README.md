@@ -17,8 +17,9 @@
 ---
 
 ## ✅ What I Can Do
+-  **Frontend:** MVVM 기반 SaaS 서비스 구조 설계 및 구현
 -  **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
--  **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
+-  **Search:** 대용량 텍스트 검색 시스템 구축
 -  **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
 -  **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
 
@@ -46,6 +47,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
