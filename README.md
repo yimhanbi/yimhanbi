@@ -9,7 +9,7 @@
 실제 서비스 환경에서 **검색·AI·플랫폼 시스템**을 설계하고 구현합니다.  
 단순 구현(PoC)을 넘어, 견고하고 확장성 있는 아키텍처를 고민하는 풀스택 개발자입니다.
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=18" /> </p>
 ## ✅ What I Can Do
 -  **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
 -  **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
