@@ -16,9 +16,9 @@
 -  **AI/RAG:** 검색 엔진 기반 질의응답 서비스 구현
 -  **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
 
----
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=18" /> </p>
-## ✨ Tech Stack & Tools
+
+ ## ✨ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
