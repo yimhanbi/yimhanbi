@@ -9,7 +9,6 @@
 단순 구현(PoC)을 넘어, 견고하고 확장성 있는 아키텍처를 고민하는 풀스택 개발자입니다.
 
 ---
-<img src="https://media1.tenor.com/m/e4xvnd3mVuwAAAAC/sailor-moon-sailor.gif" align="right" width="160"/>
 ## ✅ What I Can Do
 - 🏗 **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
 - 🔍 **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
@@ -28,11 +27,7 @@
 </p>
 
 ---
-## Logs
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HANBI_GITHUB_ID&show_icons=true&theme=rose_pine&hide_border=true" /> </p>
-
----
 ## 📫 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/%ED%95%9C%EB%B9%84-%EC%9E%84-b2b3b5304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
