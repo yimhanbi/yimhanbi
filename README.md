@@ -39,7 +39,6 @@
   <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
   <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
   <img src="https://media.tenor.com/wxWAJM98mgAAAAAi/heart.gif" width="70" />
-  <img src="https://media.tenor.com/uTPjWHftYcgAAAAi/pixel-heart.gif" width="70" />
 
   
 </p>
