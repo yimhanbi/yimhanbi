@@ -1,11 +1,5 @@
 # ✨ 👋 Hi, I'm Hanbi! 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" />
-</p>
-
+<p align="center"> <img src="https://media1.tenor.com/m/e4xvnd3mVuwAAAAC/sailor-moon-sailor.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFB6C1&height=42&section=header" /> </p>
 ## 🧑‍💻 About Me
 <img src="https://i.pinimg.com/originals/f3/04/e5/f304e5d429a1e9447e17478787878787.gif" align="right" width="150px">
 
@@ -15,7 +9,7 @@
 단순 구현(PoC)을 넘어, 견고하고 확장성 있는 아키텍처를 고민하는 풀스택 개발자입니다.
 
 ---
-
+<img src="https://media1.tenor.com/m/e4xvnd3mVuwAAAAC/sailor-moon-sailor.gif" align="right" width="160"/>
 ## ✅ What I Can Do
 - 🏗 **Backend:** REST API 설계 및 견고한 백엔드 아키텍처 구성
 - 🔍 **Search:** 대용량 텍스트 검색 시스템 구축 (**Elasticsearch**)
@@ -23,7 +17,7 @@
 - 🐳 **Infrastructure:** Docker 및 클라우드 기반 운영 환경 구축
 
 ---
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=18" /> </p>
 ## ✨ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
@@ -34,14 +28,11 @@
 </p>
 
 ---
+## Logs
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=radical&title_color=FFB6C1&icon_color=FFB6C1" alt="Hanbi's GitHub stats" height="180" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HANBI_GITHUB_ID&show_icons=true&theme=rose_pine&hide_border=true" /> </p>
 
 ---
-
 ## 📫 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/%ED%95%9C%EB%B9%84-%EC%9E%84-b2b3b5304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
