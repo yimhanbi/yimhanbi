@@ -54,8 +54,12 @@
 
 ## Contact
 <p align="left">
-<a href="https://www.linkedin.com/in/%ED%95%9C%EB%B9%84-%EC%9E%84-b2b3b5304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:dlagksql4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%ED%95%9C%EB%B9%84-%EC%9E%84-b2b3b5304/">
+    <img src="https://img.shields.io/badge/LinkedIn-한비%20임-FF69B4?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dlagksql4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dlagksql4@gmail.com-FF8DAA?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">
