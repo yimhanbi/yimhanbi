@@ -48,8 +48,8 @@
 ---
 ## GIT 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimhanbi&show_icons=true&theme=rose_pine" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimhanbi&layout=compact&theme=rose_pine" />
+  <img src="https://stats-github-readme.vercel.app/api?username=yimhanbi&show_icons=true&theme=rose_pine" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=yimhanbi&layout=compact&theme=rose_pine" />
 </p>
 
 ## Contact
